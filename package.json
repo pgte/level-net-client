@@ -1,6 +1,6 @@
 {
   "name": "level-net-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.js client for level-net-server",
   "main": "index.js",
   "scripts": {
