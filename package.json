@@ -1,0 +1,27 @@
+{
+  "name": "level-net-client",
+  "version": "0.0.1",
+  "description": "Node.js client for level-net-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap tests/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pgte/level-net-client.git"
+  },
+  "keywords": [
+    "leveldb",
+    "server",
+    "client"
+  ],
+  "author": "pgte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pgte/level-net-client/issues"
+  },
+  "dependencies": {
+    "duplex-emitter": "~2.0.3",
+    "node-uuid": "~1.4.0"
+  }
+}
